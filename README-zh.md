@@ -4,7 +4,8 @@
 
 
 [![Homepage](http://img.shields.io/badge/Homepage-IgGM-6B77FE.svg)](https://iggm.rubo.wang)
-[![Conference Paper](http://img.shields.io/badge/paper-ICLR2025-FFA876.svg)](https://openreview.net/forum?id=zmmfsJpYcq)
+[![Conference Paper](http://img.shields.io/badge/Conference_paper-ICLR2025-FFA876.svg)](https://openreview.net/forum?id=zmmfsJpYcq)
+[![Code License](https://img.shields.io/badge/Code%20License-MIT-green.svg)](https://github.com/TencentAI4S/IgGM/blob/master/LICENSE)
 
 [//]: # ([![Conference preprint Paper]&#40;http://img.shields.io/badge/paper-biorxiv.2024.09.19-FF88DC.svg&#41;]&#40;https://www.biorxiv.org/content/10.1101/2024.09.19.613838&#41;)
 
