@@ -3,11 +3,10 @@
 # IgGM: A Generative Model for Functional Antibody and Nanobody Design
 
 
-[![Homepage](http://img.shields.io/badge/Homepage-IgGM-6B77FE.svg)](https://iggm.rubo.wang)
-[![Conference Paper](http://img.shields.io/badge/Conference_paper-ICLR2025-FFA876.svg)](https://openreview.net/forum?id=zmmfsJpYcq)
+[![Homepage](http://img.shields.io/badge/Homepage-IgGM-ff88dd.svg)](https://iggm.rubo.wang)
+[![Journal Paper](http://img.shields.io/badge/Journal_paper-biorxiv-FFA876.svg)](https://www.biorxiv.org/content/10.1101/2025.09.12.675771)
+[![Conference Paper](http://img.shields.io/badge/Conference_paper-ICLR2025-6B77FE.svg)](https://openreview.net/forum?id=zmmfsJpYcq)
 [![Code License](https://img.shields.io/badge/Code%20License-MIT-green.svg)](https://github.com/TencentAI4S/IgGM/blob/master/LICENSE)
-
-[//]: # ([![Conference preprint Paper]&#40;http://img.shields.io/badge/paper-biorxiv.2024.09.19-FF88DC.svg&#41;]&#40;https://www.biorxiv.org/content/10.1101/2024.09.19.613838&#41;)
 
 ![header](docs/IgGM_dynamic.gif)
 
@@ -238,6 +237,7 @@ python scripts/merge_chains.py --antigen examples/pdb.files.native/8ucd.pdb --ou
 
 如果你在研究中使用了IgGM, 请引用我们的工作
 
+
 ```BibTeX
 @inproceedings{
 wang2025iggm,
@@ -247,5 +247,15 @@ booktitle={The Thirteenth International Conference on Learning Representations},
 year={2025},
 url={https://openreview.net/forum?id=zmmfsJpYcq}
 }
-
+```
+```BibTeX
+@article {Wang2025.09.12.675771,
+	author = {Wang, Rubo and Wu, Fandi and Shi, Jiale and Song, Yidong and Kong, Yu and Ma, Jian and He, Bing and Yan, Qihong and Ying, Tianlei and Zhao, Peilin and Gao, Xingyu and Yao, Jianhua},
+	title = {A Generative Foundation Model for Antibody Design},
+	year = {2025},
+	doi = {10.1101/2025.09.12.675771},
+	publisher = {Cold Spring Harbor Laboratory},
+	URL = {https://www.biorxiv.org/content/early/2025/09/16/2025.09.12.675771},
+	journal = {bioRxiv}
+}
 ```
