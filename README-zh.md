@@ -231,7 +231,7 @@ python scripts/merge_chains.py --antigen examples/pdb.files.native/8ucd.pdb --ou
 
 我们的模型和代码在 MIT 许可下发布，可以自由用于学术和商业目的。
 
-如果想直接进行商业合作，请联系商务团队，邮箱为 leslielwang@tencent.com。
+如果您有任何问题，请联系IgGM团队，邮箱为 wangrubo@hotmail.com, wufandi@outlook.com。
 
 ## 📋️Citing IgGM
 

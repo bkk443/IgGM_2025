@@ -228,7 +228,7 @@ python scripts/merge_chains.py --antigen examples/pdb.files.native/8ucd.pdb --ou
 
 Our model and code are released under MIT License, and can be freely used for both academic and commercial purposes.
 
-If you would like to work directly with the commercial team, please contact the commercial team at leslielwang@tencent.com.
+If you have any questions, please contact the IgGM team at wangrubo@hotmail.com, wufandi@outlook.com.
 
 ## 📋️Citing IgGM
 
